@@ -53,7 +53,7 @@ async def yplay(_, message: Message):
     for administrator in grpadmins:
         admins.append(administrator.user.id)
     if message.from_user.id not in admins:
-        await message.reply_sticker("CAADBQADUAMAApau6VXHtUHj2HD3jAI")
+        await message.reply_sticker("CAADBQADsQIAAtILIVYld1n74e3JuQI")
         return
     type=""
     yturl=""
@@ -201,7 +201,7 @@ async def deezer(_, message):
     for administrator in grpadmins:
         admins.append(administrator.user.id)
     if message.from_user.id not in admins:
-        await message.reply_sticker("CAADBQADUAMAApau6VXHtUHj2HD3jAI")
+        await message.reply_sticker("CAADBQADsQIAAtILIVYld1n74e3JuQI")
         return
     user=f"[{message.from_user.first_name}](tg://user?id={message.from_user.id})"
     if " " in message.text:
