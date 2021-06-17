@@ -171,8 +171,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-                InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+                InlineKeyboardButton('👨🏻‍💻MASTER👨🏻‍💻', url='https://t.me/CYBER_YT1'),
+                InlineKeyboardButton('📲CONTACT ME📲', url='https://t.me/CYBER_YT1'),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
