@@ -1,26 +1,16 @@
 # Telegram Voice Chat Bot with Channel Support.
 
-A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
-Supports Live streaming from youtube
-
-```
-Please fork this repository don't import code
-Made with Python3
-(C) @subinps
-Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
-
-```
+HI BRO 
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERDUDE3/MusicPlayer)
 
 
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/MusicPlayer
+git clone https://github.com/CYBERDUDE3/MusicPlayer
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
