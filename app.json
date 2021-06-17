@@ -1,7 +1,7 @@
 {
-  "name": "Telegram Voice Chat Music Player Bot ",
+  "name": "Music Player Bot ",
   "description": "Telegram Bot to Play Audio in Telegram Voice Chats",
-  "repository": "https://github.com/subinps/MusicPlayer",
+  "repository": "https://github.com/CYBERDUDE3/MusicPlayer.git",
   "keywords": [
     "telegram",
     "bot",
@@ -14,15 +14,15 @@
     "voip"
   ],
   "env": {
-    "API_ID": {
+    "API_ID_IVADE_KODUKUKA": {
       "description": "api_id part of your Telegram API Key from my.telegram.org/apps",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH_IVADE_KODUKUKA": {
       "description": "api_hash part of your Telegram API Key from my.telegram.org/apps",
       "required": true
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN_IVADE_KODUKUKA": {
       "description": "Bot token of Bot, get from @Botfather",
       "required": true
     },
